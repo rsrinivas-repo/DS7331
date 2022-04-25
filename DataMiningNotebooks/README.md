@@ -6,9 +6,9 @@ Notebooks are numbered by the unit (i.e., week) at which they are covered in the
 
 To use the notebooks you can either download the repository as a zip file (top right corner) or you can use a git checkout via the command:
 ```
-git clone https://github.com/jakemdrew/DataMiningNotebooks.git
+git clone https://github.com/rsrinivas-repo/DS7331.git
 ```
 
 This will install the entire git repository into a new directory and you can always update the directory via git. 
 
-Please direct any questions to the course instructor or to Professor Drew (jdrew@smu.edu)
+Please direct any questions to the course instructor or to Professor Raghu Srinivas (rsrinivas@smu.edu)
